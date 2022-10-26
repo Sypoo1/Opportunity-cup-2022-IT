@@ -3,7 +3,7 @@ with open('transactions_final.json') as f:
     transactions = json.load(f)["transactions"]
 
 res = [] # many FIO`s in one accaunt 
-
+# тест русского языка
 
 
 accounts = []
